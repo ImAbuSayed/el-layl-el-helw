@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | El Layl El Helw |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق قولي
+> أنت نبضي في سكوني
+> قلبي في هواكِ غارق
+> نار عشقي في عيوني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
