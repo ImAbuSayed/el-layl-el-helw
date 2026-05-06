@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-layl-el-helw/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: El Layl El Helw](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
