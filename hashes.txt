@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Layl El Helw
+
+This log tracks the cryptographic history and versioning for the song **El Layl El Helw** (el-layl-el-helw).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:00:43.516992 | `v1` | `8a9c35e3220e43c2bd6a1e1e4aa00b9b76e36ef8de03832329072c8c868d6431` | `15d03def0598d2ac461d5ae04a925c0b4159ac6a4b560c69bc729e59bd51b2fc` | `2026-05-09_el-layl-el-helw-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
